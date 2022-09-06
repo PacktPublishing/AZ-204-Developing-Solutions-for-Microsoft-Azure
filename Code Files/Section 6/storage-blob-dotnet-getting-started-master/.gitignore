@@ -1,0 +1,12 @@
+*.suo
+BlobStorage/bin/Debug/BlobStorage.exe
+*.dll
+*.csproj
+*.xml
+BlobStorage/obj/Debug/*.*
+BlobStorage/bin/Debug/*.*
+BlobStorage/StyleCop.cache
+*.nupkg
+packages/*
+*.ps1
+.vs/*
